@@ -1,0 +1,39 @@
+{
+    "name": "Denver, CO",
+    "description": "This catalog was created in partnership with Open Colorado. To search for open data provided by other government organizations in Colorado please visit the Open Colorado Data Catalog.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-02-12-pm.jpg",
+    "tags": [
+        "api provider",
+        "city government",
+        "data provider",
+        "have api",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/denver-co\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Denver, CO",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-02-12-pm.jpg",
+            "humanURL": "http:\/\/data.denvergov.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/denver-co-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/data.denvergov.org\/"
+        }
+    ]
+}
